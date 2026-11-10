@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+curl_cffi>=0.7
+orjson>=3.10
+aiofiles>=23.2
